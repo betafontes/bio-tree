@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat, fiz um Linktree das minhas redes sociais!! <br/>
+Programa exclusivo e gratuito, promovido pela Rocketseat. <br/>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O DevLinks é um agregador de links para usar como cartão de visitas online das minhas redes sociais!
 
 
 ## 🔖 Layout

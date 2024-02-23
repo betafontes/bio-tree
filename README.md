@@ -13,7 +13,6 @@ Programa exclusivo e gratuito, promovido pela Rocketseat. <br/>
 
 <br>
 
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -22,14 +21,24 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 - Figma
+  
+<br>
 
 ## 💻 Projeto
 
 O DevLinks é um agregador de links para usar como cartão de visitas online das minhas redes sociais!
 
 
-## 🔖 Layout
+<br>
 
+## 🔖 Layout
+![image](https://github.com/betafontes/bio-tree/assets/70981960/fad0efae-65bd-44fc-adc8-05f5f263e5e6)
+![image](https://github.com/betafontes/bio-tree/assets/70981960/a2318c8a-5981-4a00-8421-47c59a33ec3d)
+
+
+
+
+<br>
 
 ## :memo: Licença
 <br>
